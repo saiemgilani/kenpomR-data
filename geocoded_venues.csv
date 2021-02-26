@@ -1,0 +1,358 @@
+Rk,Team,Conf,Arena,Alternate,Year,lon,lat
+1,Syracuse,ACC,Carrier Dome,,2021,-76.1363161,43.0362269
+2,Louisville,ACC,KFC Yum! Center,,2021,-85.7542438,38.2571679
+3,North Carolina,ACC,Dean E. Smith Center,,2021,-79.0438731,35.8994844
+4,Tennessee,SEC,Thompson Boling Arena,,2021,-83.9250359,35.9511794
+5,Kentucky,SEC,Rupp Arena,,2021,-84.5025226,38.0492752
+6,N.C. State,ACC,PNC Arena,,2021,-78.7218018,35.803329
+7,Arkansas,SEC,Bud Walton Arena,,2021,-94.1780556,36.0616667
+8,Ohio St.,B10,Value City Arena,,2021,-83.0249431,40.0079107
+9,BYU,WCC,Marriott Center,,2021,-111.6492787,40.2540523
+10,Memphis,Amer,FedExForum,,2021,-90.0505864,35.1381418
+11,Bellarmine,ASun,Freedom Hall,,2021,-85.7416509,38.1996107
+12,South Carolina,SEC,Colonial Life Arena,,2021,-81.0371971,33.9948495
+12,UNLV,MWC,Thomas & Mack Center,,2021,-95.6164276,37.0370221
+14,Maryland,B10,Xfinity Center,,2021,-76.93826291,38.99057937
+15,Marquette,BE,Fiserv Forum,,2021,-87.9173862,43.0450802
+16,Indiana,B10,Assembly Hall,,2021,-86.5221318,39.1808898
+17,Creighton,BE,CHI Health Center Omaha,,2021,-95.9282961,41.2636927
+18,Wisconsin,B10,Kohl Center,,2021,-89.39672,43.069396
+19,Texas,B12,Erwin Center,,2021,-97.732185,30.2769359
+20,Kansas,B12,Allen Fieldhouse,,2021,-95.2527778,38.9541667
+21,Fresno St.,MWC,Save Mart Center,,2021,-119.7385051,36.8099385
+22,Illinois,B10,State Farm Center,,2021,-88.2358984,40.0961996
+23,New Mexico,MWC,Dreamstyle Arena,,2021,-106.6322619,35.0670344
+24,Alabama,SEC,Coleman Coliseum,,2021,-87.5396965,33.2030429
+25,Penn St.,B10,Bryce Jordan Center,,2021,-77.8556061,40.8086107
+26,Texas Tech,B12,United Supermarkets Arena,,2021,-101.886563,33.581334
+27,Missouri,SEC,Mizzou Arena,,2021,-92.3337354,38.9324883
+28,Iowa,B10,Carver Hawkeye Arena,,2021,-91.5546047,41.663778
+29,Nebraska,B10,Pinnacle Bank Arena,,2021,-96.7126194,40.817931
+29,Utah,P12,Huntsman Center,,2021,-111.8387829,40.762049
+31,Purdue,B10,Mackey Arena,,2021,-86.9157668,40.4332234
+32,Michigan St.,B10,Breslin Center,,2021,-84.4923695,42.7283325
+33,Wake Forest,ACC,Joel Coliseum,,2021,-80.2574934,36.1277077
+34,Arizona,P12,McKale Memorial Center,,2021,-110.9460438,32.2297033
+35,Minnesota,B10,Williams Arena,,2021,-93.2279713,44.9768472
+36,Virginia,ACC,John Paul Jones Arena,,2021,-78.5067583,38.0459528
+37,Iowa St.,B12,Hilton Coliseum,,2021,-93.6348693,42.0211714
+38,Vanderbilt,SEC,Memorial Gym,,2021,-78.5071603,38.0374683
+39,West Virginia,B12,WVU Coliseum,,2021,-79.9814341,39.649361
+40,UCLA,P12,Pauley Pavilion,,2021,-118.4469294,34.0703423
+41,Oklahoma St.,B12,Gallagher Iba Arena,,2021,-97.0651325,36.1257039
+42,Dayton,A10,University of Dayton Arena,,2021,-84.1997159,39.7356112
+43,LSU,SEC,Maravich Assembly Center,,2021,-91.1846265,30.4142761
+44,Ohio,MAC,Convocation Center,,2021,-88.7853088,41.9355125
+45,Texas A&M,SEC,Reed Arena,,2021,-96.3462861,30.6060453
+46,Michigan,B10,Crisler Center,,2021,-83.7467082,42.2650465
+47,Oregon,P12,Knight Arena,,2021,-123.0663109,44.0449193
+48,Kansas St.,B12,Bramlage Coliseum,,2021,-96.5937885,39.2003598
+49,Pittsburgh,ACC,Petersen Events Center,,2021,-79.9622834,40.4438281
+50,New Mexico St.,WAC,Pan American Center,,2021,-106.7421707,32.2836754
+51,Boise St.,MWC,ExtraMile Arena,,2021,-116.1989424,43.6035805
+52,San Diego St.,MWC,Viejas Arena,,2021,-117.0745172,32.7739056
+53,Providence,BE,Dunkin' Donuts Center,,2021,-71.4179556,41.8236281
+54,Louisiana,SB,Cajundome,,2021,-92.0375595,30.2179165
+55,Florida St.,ACC,Donald L. Tucker Center,,2021,-84.2866581,30.4377823
+56,Cincinnati,Amer,Fifth Third Arena,,2021,-84.5141,39.1312° N
+57,Purdue Fort Wayne,Horz,Allen County War Memorial Coliseum,"Gates Sports Center (1,800)",2021,-85.1241302,41.1156654
+58,UTEP,CUSA,Don Haskins Center,,2021,-106.5057042,31.7777601
+59,California,P12,Haas Pavilion,,2021,-122.2621795,37.8694051
+60,Washington St.,P12,Friel Court,,2021,-117.1580849,46.735235
+61,Oklahoma,B12,Lloyd Noble Center,,2021,-97.444262,35.18733
+62,Nevada,MWC,Lawlor Events Center,,2021,-119.8183,39.5451
+63,Middle Tennessee,CUSA,Murphy Center,,2021,-105.0722952,40.6031625
+64,Ball St.,MAC,Worthen Arena,,2021,-85.4061432,40.2070669
+64,Weber St.,BSky,Dee Events Center,,2021,-111.9450635,41.1823818
+66,Wyoming,MWC,Arena Auditorium,,2021,-105.5694444,41.3133333
+67,Colorado,P12,CU Events Center,,2021,-105.2611722,40.005398
+68,Bradley,MVC,Carver Arena,,2021,-91.5546047,41.663778
+69,Missouri St.,MVC,JQH Arena,,2021,-93.2831751,37.2019687
+70,Chattanooga,SC,McKenzie Arena,,2021,-85.3009161,35.0503272
+71,Milwaukee,Horz,UWM Panther Arena,,2021,-87.9168359,43.0422275
+72,Arizona St.,P12,Desert Financial Arena,,2021,-111.9310002,33.424495
+73,Saint Louis,A10,Chaifetz Arena,,2021,-90.2278912,38.6325363
+74,Mississippi St.,SEC,Humphrey Coliseum,,2021,-88.7940254,33.4614159
+74,Oral Roberts,Sum,Mabee Center,,2021,-95.9558424,36.0480407
+76,Georgia,SEC,Stegeman Coliseum,,2021,-83.3781197,33.9427339
+77,Wichita St.,Amer,Charles Koch Arena,,2021,-97.297447,37.721663
+78,North Texas,CUSA,The Super Pit,,2021,121.5055958,-30.7776326
+78,Tennessee St.,OVC,Gentry Center,,2021,-86.8292694,36.1691399
+80,Seton Hall,BE,Prudential Center,,2021,-71.0817427,42.3470567
+81,Wright St.,Horz,Nutter Center,,2021,-84.0522812,39.7820712
+82,South Florida,Amer,Yuengling Center,,2021,-82.4059454,28.0588951
+83,DePaul,BE,Wintrust Arena,,2021,-87.6216812,41.8541526
+84,Hawaii,BW,Stan Sheriff Center,,2021,-157.8189199,21.2942686
+85,Baylor,B12,Ferrell Center,,2021,-97.105669,31.5479228
+86,Utah St.,MWC,Dee Glen Smith Spectrum,,2021,-111.8116607,41.7476119
+87,USC,P12,Galen Center,,2021,-118.2797113,34.0208219
+88,Xavier,BE,Cintas Center,,2021,-84.4718639,39.1503722
+89,Temple,Amer,The Liacouras Center,,2021,-75.1585516,39.9798691
+90,Illinois St.,MVC,Redbird Arena,,2021,-88.9987999,40.5106898
+90,Indiana St.,MVC,Hulman Center,,2021,-87.4051228,39.4684796
+92,Connecticut,BE,Gampel Pavilion,"XL Center (15,564)",2021,-72.2545924,41.8048726
+93,Tennessee Tech,OVC,Eblen Center,,2021,-85.5092457,36.178333
+94,Florida,SEC,Exactech Arena,,2021,-82.3511547,29.64939
+95,Lamar,Slnd,Montagne Center,,2021,-94.0707145,30.0442788
+96,Arkansas St.,SB,First National Bank Arena,,2021,-90.670336,35.845407
+97,South Alabama,SB,Mitchell Center,,2021,-88.1796795,30.6922759
+97,UCF,Amer,Addition Financial Arena,,2021,-81.1973669,28.607225
+99,Green Bay,Horz,Resch Center,"Kress Events Center (4,018)",2021,-88.0550778,44.4994194
+100,Oregon St.,P12,Gill Coliseum,,2021,-123.2805695,44.5612609
+101,Mississippi,SEC,The Pavilion at Ole Miss,,2021,-89.536016,34.3628353
+102,Massachusetts,A10,Mullins Center,,2021,-72.5334464,42.389382
+103,Northern Kentucky,Horz,BB&T Arena,,2021,-94.5746182,38.9728011
+104,Duke,ACC,Cameron Indoor Stadium,,2021,-78.942205,35.9974715
+105,Virginia Tech,ACC,Cassell Coliseum,,2021,-80.4190748,37.2226899
+106,Washington,P12,Alaska Airlines Arena,,2021,-122.3021452,47.6520654
+107,Notre Dame,ACC,Joyce Center,,2021,-86.2312802,41.6972362
+108,Auburn,SEC,Auburn Arena,,2021,-85.4924988,32.6027586
+109,Charlotte,CUSA,Halton Arena,,2021,-80.7344525,35.306403
+110,Butler,BE,Hinkle Fieldhouse,,2021,-86.1673075,39.8435575
+110,Northern Illinois,MAC,Convocation Center,,2021,-88.7853088,41.9355125
+112,Marshall,CUSA,Henderson Center,,2021,-80.1849404,26.194375
+113,Clemson,ACC,Littlejohn Coliseum,,2021,-82.8464242,34.6804137
+113,Florida A&M,MEAC,Lawson Center,,2021,-79.3927201,42.1606241
+115,SMU,Amer,Moody Coliseum,,2021,-96.7806333,32.8403778
+116,Evansville,MVC,Ford Center,,2021,-96.8283481,33.1105911
+117,Eastern Michigan,MAC,Convocation Center,,2021,-88.7853088,41.9355125
+118,New Orleans,Slnd,Lakefront Arena,,2021,-90.0504922,30.0302491
+119,Colorado St.,MWC,Moby Arena,,2021,-105.0932246,40.5756843
+120,Penn,Ivy,The Palestra,,2021,-75.1887032,39.9513911
+121,Boston College,ACC,Conte Forum,,2021,-71.1677912,42.3356045
+122,Georgia Tech,ACC,McCamish Pavilion,,2021,-84.3927766,33.7808132
+122,Murray St.,OVC,CFSB Center,,2021,-88.3200035,36.6226978
+122,William & Mary,CAA,Kaplan Arena,,2021,-76.719721,37.2734779
+125,Cleveland St.,Horz,Wolstein Center,,2021,-81.6763705,41.4996733
+125,James Madison,CAA,Atlantic Union Bank Center,,2021,-78.8595503,38.430443
+125,Liberty,ASun,Vines Center,,2021,-79.1810641,37.348916
+125,Texas A&M Corpus Chris,Slnd,American Bank Center,,2021,-97.3937165,27.8084147
+125,UAB,CUSA,Bartow Arena,,2021,-86.8092363,33.5023301
+125,Utah Valley,WAC,UCCU Center,,2021,-111.7170486,40.2786407
+131,Old Dominion,CUSA,Constant Convocation Center,,2021,-76.3013504,36.8841366
+132,Tulsa,Amer,Reynolds Center,,2021,-95.9420646,36.1490729
+133,Southern Illinois,MVC,Banterra Center,,2021,-89.2187116,37.7083282
+134,Appalachian St.,SB,Holmes Center,,2021,-93.244825,44.970411
+135,Detroit,Horz,Calihan Hall,,2021,-83.1360608,42.4143679
+136,Texas Southern,SWAC,Health & PE Arena,,2021,-95.6491717,37.0360336
+137,Southern Miss,CUSA,Reed Green Coliseum,,2021,-89.3379397,31.331209
+138,Siena,MAAC,Times Union Center,,2021,-73.7548781,42.6486097
+139,East Carolina,Amer,Williams Arena at Minges Coliseum,,2021,-77.3669814,35.5974775
+139,Idaho St.,BSky,Holt Arena,"Reed Gym (3,141)",2021,-112.4286111,42.87
+139,Illinois Chicago,Horz,Credit Union 1 Arena,,2021,-87.6562537,41.8748298
+139,Jackson St.,SWAC,Williams Center,,2021,-95.9921035,36.1539421
+139,Louisiana Tech,CUSA,Thomas Assembly Center,,2021,-92.6585828,32.5320633
+139,Rutgers,B10,Rutgers Athletic Center,,2021,-74.441353,40.52525
+145,Miami FL,ACC,Watsco Center,,2021,-80.2793482,25.7153176
+146,Nebraska Omaha,Sum,Baxter Arena,,2021,-96.012948,41.236186
+147,George Mason,A10,EagleBank Arena,,2021,-77.3096186,38.8268068
+148,Western Carolina,SC,Ramsey Center,,2021,-83.3714103,33.937632
+149,Rhode Island,A10,Ryan Center,,2021,-71.5357485,41.4877684
+150,VCU,A10,Siegel Center,,2021,-77.4529235,37.5529069
+151,UNC Greensboro,SC,Greensboro Coliseum,"Fleming Gymnasium (2,320)",2021,-79.8253632,36.0590225
+152,Western Kentucky,CUSA,E.A. Diddle Arena,,2021,-86.4576178,36.9863236
+153,Southeastern Louisiana,Slnd,University Center,,2021,-97.068755,36.736796
+153,Southern,SWAC,Clark Activity Center,,2021,-91.1855556,30.5219444
+155,Alabama St.,SWAC,Dunn-Oliver Acadome,,2021,-86.2931585,32.361776
+156,Stanford,P12,Maples Pavilion,,2021,-122.1606333,37.4296194
+157,Montana,BSky,Dahlberg Arena,,2021,-113.9833389,46.8640171
+158,Northern Arizona,BSky,Walkup Skydome,,2021,-111.6528102,35.1805295
+158,Toledo,MAC,Savage Arena,,2021,-83.6091373,41.6602888
+160,Northern Iowa,MVC,McLeod Center,,2021,-80.8811032,35.1959983
+161,Austin Peay,OVC,Winfield Dunn Center,,2021,-87.3566842,36.5363156
+162,Stephen F. Austin,Slnd,Johnson Coliseum,,2021,-94.6408,31.6223
+163,Richmond,A10,Robins Center,,2021,-77.5387725,37.5806023
+164,Denver,Sum,Magness Arena,,2021,-104.9616342,39.6821222
+164,Hampton,BSth,Hampton Convocation Center,,2021,-76.331,37.0199
+164,Texas St.,SB,Strahan Coliseum,,2021,-97.9326085,29.8886679
+167,Drake,MVC,Knapp Center,,2021,-93.6521848,41.6046559
+168,UC Davis,BW,The Pavilion,,2021,-94.2033464,36.0499768
+169,Northwestern,B10,Welsh-Ryan Arena,,2021,-87.6924667,42.0668144
+170,Houston,Amer,Fertitta Center,,2021,-95.3469221,29.7246943
+171,Alcorn St.,SWAC,Whitney Complex,,2021,-81.0503899,32.066784
+171,Grand Canyon,WAC,GCU Arena,,2021,-112.1286043,33.5097451
+171,Idaho,BSky,Cowan Spectrum,,2021,-117.0172222,46.7263889
+171,Louisiana Monroe,SB,Fant-Ewing Coliseum,,2021,-92.069453,32.5310438
+171,Southeast Missouri St.,OVC,Show Me Center,,2021,-89.5273982,37.3199621
+171,UT Arlington,SB,College Park Center,,2021,-97.1080356,32.7306428
+177,Princeton,Ivy,Jadwin Gymnasium,,2021,-74.6486685,40.3434557
+178,IUPUI,Horz,Indiana Farmers Coliseum,,2021,-86.1351327,39.8278349
+178,TCU,B12,Schollmaier Arena,,2021,-97.3667142,32.7088144
+180,North Carolina A&T,MEAC,Corbett Sports Center,,2021,-79.7690552,36.0767649
+181,East Tennessee St.,SC,Freedom Hall Civic Center,,2021,-82.3748699,36.3243351
+181,Eastern Kentucky,OVC,McBrayer Arena,,2021,-84.3012724,37.7373512
+181,Morehead St.,OVC,Johnson Arena,,2021,-83.4256489,38.19008
+181,South Dakota St.,Sum,Frost Arena,,2021,-96.7791265,44.318304
+181,Villanova,BE,Finneran Pavilion,"Wells Fargo Center (20,478)",2021,-75.3366741,40.0345318
+186,Miami OH,MAC,Millett Hall,,2021,-84.734543,39.5172109
+186,Youngstown St.,Horz,Beeghly Center,,2021,-80.6487927,41.1081897
+188,Kent St.,MAC,Memorial Athletic & Convocation Center,,2021,-81.344,41.148
+189,Norfolk St.,MEAC,Echols Hall,,2021,-76.2581645,36.8479613
+190,Pacific,WCC,Spanos Center,,2021,-121.3151352,37.9767312
+191,Sam Houston St.,Slnd,Johnson Coliseum,,2021,-95.5462167,30.712925
+192,Buffalo,MAC,Alumni Arena,,2021,-78.7811679,43.0001109
+192,UNC Wilmington,CAA,Trask Coliseum,,2021,-77.8783329,34.2250178
+192,Winthrop,BSth,Winthrop Coliseum,,2021,-81.0149285,34.9481381
+195,Alabama A&M,SWAC,Elmore Gymnasium,,2021,-86.5750892,34.7849429
+195,Gonzaga,WCC,McCarthey Athletic Center,,2021,-117.3991832,47.6653928
+195,South Dakota,Sum,Sanford Coyote Sports Center,,2021,-96.9278691,42.7900993
+195,The Citadel,SC,McAlister Field House,,2021,-79.9623637,32.7985855
+195,UC Santa Barbara,BW,Thunderdome,,2021,-122.4839679,47.2075393
+200,Air Force,MWC,Clune Arena,,2021,-104.8837443,39.0137436
+201,Maine,AE,Cross Insurance Center,,2021,-68.77929,44.788802
+201,North Florida,ASun,UNF Arena,,2021,-81.5079346,30.2734356
+203,St. Bonaventure,A10,Reilly Center,,2021,-90.1171904,29.9434524
+204,Navy,Pat,Alumni Hall,,2021,-94.1462854,36.1132368
+205,North Dakota St.,Sum,Scheels Center,,2021,-96.90036,46.87497
+206,St. John's,BE,Carnesecca Arena,"Madison Square Garden (19,786)",2021,-73.7945776,40.7241294
+207,Lehigh,Pat,Stabler Arena,,2021,-75.357392,40.585324
+207,Little Rock,SB,Stephens Center,,2021,-95.954051,41.205397
+209,Akron,MAC,Rhodes Arena,,2021,-81.5088053,41.075549
+209,Central Arkansas,Slnd,Farris Center,,2021,-92.4594976,35.0818647
+209,Maryland Eastern Shore,MEAC,Hytche Athletic Center,,2021,-75.6872167,38.211371
+209,Troy,SB,Trojan Arena,,2021,-85.9523887,31.8022455
+213,Western Michigan,MAC,University Arena,,2021,-85.6086875,42.2833506
+214,Central Michigan,MAC,McGuirk Arena,,2021,-84.7740485,43.5814982
+214,Eastern Illinois,OVC,Lantz Arena,,2021,-88.1795115,39.4802475
+214,Southern Utah,BSky,America First Event Center,,2021,-113.0729248,37.6755314
+217,Davidson,A10,Belk Arena,,2021,-80.8403139,35.4993221
+218,Rice,CUSA,Tudor Fieldhouse,,2021,-95.4038942,29.7152585
+219,Towson,CAA,SECU Arena,,2021,-76.6171613,39.3873801
+220,Binghamton,AE,Events Center,,2021,-95.9773919,36.206646
+221,Western Illinois,Sum,Western Hall,,2021,-90.6850172,40.4714189
+222,Charleston,CAA,TD Arena,,2021,-79.9342186,32.7853327
+222,Elon,CAA,Schar Center,,2021,-79.5108076,36.1080342
+222,San Diego,WCC,Jenny Craig Pavilion,,2021,-117.1837806,32.7744376
+225,Northeastern,CAA,Matthews Arena,,2021,-71.0846418,42.3410767
+226,Cal Baptist,WAC,CBU Events Center,,2021,-117.4223116,33.9268345
+227,Hofstra,CAA,Mack Sports Complex,,2021,-73.5968484,40.7197192
+228,Army,Pat,Christl Arena,,2021,-73.9655587,41.3862939
+229,VMI,SC,Cameron Hall,,2021,-80.731232,35.3076746
+230,Lipscomb,ASun,Allen Arena,,2021,-86.798965,36.1036206
+231,Belmont,OVC,Curb Event Center,,2021,-86.7946203,36.132293
+231,Chicago St.,WAC,Jones Convocation Center,,2021,-87.6084284,41.7165542
+231,Delaware,CAA,Bob Carpenter Center,,2021,-75.7495728,39.6605074
+231,Eastern Washington,BSky,Reese Court,,2021,-96.8116872,32.7342704
+231,FIU,CUSA,Ocean Bank Convocation Center,,2021,-80.3795409,25.7569257
+231,Florida Atlantic,CUSA,FAU Gymnasium,,2021,-80.1028854,26.3742347
+231,Furman,SC,Timmons Arena,,2021,-82.437289,34.9179345
+231,Samford,SC,Hanna Center,,2021,-86.8748755,40.4281901
+231,San Jose St.,MWC,Provident Credit Union Event Center,,2021,-121.8800984,37.3352087
+231,UC Irvine,BW,Bren Events Center,,2021,-117.8470627,33.6493863
+231,Valparaiso,MVC,Athletics Recreation Center,,2021,-87.0483333,41.4641667
+242,Portland,WCC,Chiles Center,,2021,-122.7284971,45.5750931
+243,Dixie St.,WAC,Burns Arena,,2021,-113.567046,37.1014179
+244,UMBC,AE,UMBC Event Center,,2021,-76.707431,39.2523419
+245,Kennesaw St.,ASun,KSU Convocation Center,,2021,-84.5803692,34.0368592
+246,Albany,AE,SEFCU Arena,,2021,-73.8283517,42.6820067
+247,Arkansas Pine Bluff,SWAC,Clemmons Arena,,2021,-92.0239627,34.2460059
+247,Florida Gulf Coast,ASun,Alico Arena,,2021,-81.7646659,26.4710624
+247,Montana St.,BSky,Worthington Arena,,2021,-111.0506118,45.6633982
+247,Morgan St.,MEAC,Hill Field House,,2021,-76.5852961,39.342424
+247,Santa Clara,WCC,Leavey Center,,2021,-121.9352222,37.3493059
+252,Loyola Chicago,MVC,Gentile Arena,,2021,-87.6590789,42.0006345
+253,Cornell,Ivy,Newman Arena,,2021,-76.4764139,42.4458085
+254,Georgia Southern,SB,Hanner Fieldhouse,,2021,-81.7792142,32.4276436
+255,Bowling Green,MAC,Stroh Center,,2021,-83.6262187,41.3752336
+256,George Washington,A10,Charles E. Smith Center,,2021,-77.049338,38.8978433
+257,Tennessee Martin,OVC,Elam Center,,2021,-86.8077515,36.1660646
+258,Long Beach St.,BW,The Walter Pyramid,,2021,-118.1143892,33.7873979
+258,McNeese St.,Slnd,H&HP Complex,,2021,-96.1860826,37.1265606
+258,Saint Joseph's,A10,Hagan Arena,,2021,-75.2350576,39.995661
+258,San Francisco,WCC,War Memorial at the Sobrato Center,,2021,-122.4495105,37.7768745
+262,Loyola Marymount,WCC,Gersten Pavilion,,2021,-118.4156012,33.9676642
+263,Coppin St.,MEAC,Physical Education Complex,,2021,-76.6571351,39.3153798
+263,Monmouth,MAAC,OceanFirst Bank Center,,2021,-74.0078846,40.2791393
+265,UTSA,CUSA,UTSA Convocation Center,,2021,-98.6214107,29.5823631
+266,Bucknell,Pat,Sojka Pavilion,,2021,-76.8868827,40.9568332
+266,Cal St. Fullerton,BW,Titan Gym,,2021,-95.9882812,36.0522613
+266,La Salle,A10,Tom Gola Arena,,2021,-75.1562158,40.0400211
+266,North Alabama,ASun,Flowers Hall,,2021,-87.6837689,34.8084699
+266,Robert Morris,Horz,UPMC Events Center,,2021,-80.214937,40.5202494
+266,SIU Edwardsville,OVC,Vadalabene Center,,2021,-90.0000974,38.7958672
+266,Stetson,ASun,Edmunds Center,,2021,-81.3018584,29.0395387
+266,Stony Brook,AE,Island Federal Credit Union Arena,,2021,-73.125975,40.9174143
+266,UC San Diego,BW,Rimac Arena,,2021,-117.2399063,32.8853111
+266,UT Rio Grande Valley,WAC,UTRGV Fieldhouse,,2021,-98.1698007,26.3067326
+276,Cal St. Bakersfield,BW,Icardo Center,,2021,-119.1026237,35.3475589
+277,Nicholls St.,Slnd,Stopher Gym,,2021,-90.8013387,29.7923204
+278,Coastal Carolina,SB,HTC Center,,2021,-79.0157505,33.7988949
+278,Holy Cross,Pat,Hart Center,,2021,-77.044513,39.8685059
+278,Northwestern St.,Slnd,Prather Coliseum,,2021,-93.0951659,31.7440628
+278,Tulane,Amer,Fogelman Arena,,2021,-90.1208204,29.939013
+282,Hartford,AE,Chase Arena,,2021,-122.387715,37.7680466
+283,Duquesne,A10,UPMC Cooper Fieldhouse,,2021,-79.9878666,40.4373526
+283,Gardner Webb,BSth,Paul Porter Arena,,2021,-81.6695574,35.2465436
+283,Jacksonville St.,OVC,Mathews Coliseum,,2021,-85.7735038,33.8241586
+283,Lafayette,Pat,Kirby Sports Center,,2021,-75.209704,40.7018683
+283,NJIT,AE,Wellness and Events Center,,2021,-74.1804421,40.7422515
+283,Prairie View A&M,SWAC,William Nicks Building,,2021,-95.9930554,30.0922526
+283,Saint Mary's,WCC,University Credit Union Pavilion,,2021,-122.1064498,37.8412834
+283,St. Francis PA,NEC,DeGol Arena,,2021,-78.6373747,40.5062359
+291,Georgia St.,SB,GSU Sports Arena,,2021,-84.3863189,33.7516867
+291,Wofford,SC,Richardson Indoor Stadium,,2021,-81.9336288,34.9634256
+293,Vermont,AE,Patrick Gymnasium,,2021,-73.1948048,44.4705972
+294,Quinnipiac,MAAC,People's United Center,,2021,-72.9111955,41.4138376
+295,Central Connecticut,NEC,Detrick Gymnasium,,2021,-72.7651572,41.6932347
+295,Fordham,A10,Rose Hill Gym,,2021,-73.8837651,40.862211
+295,Marist,MAAC,McCann Center,,2021,-73.9353181,41.7173998
+295,Mercer,SC,Hawkins Arena,,2021,-83.6518573,32.8288941
+295,Radford,BSth,Dedmon Center,,2021,-80.5418072,37.1385478
+295,Saint Peter's,MAAC,Yanitelli Center,,2021,-74.073102,40.7277258
+295,South Carolina St.,MEAC,Smith Hammond Middleton Center,,2021,-80.846515,33.5010199
+295,UNC Asheville,BSth,Kimmel Arena,,2021,-82.5688412,35.6180967
+303,Mount St. Mary's,NEC,Knott Arena,,2021,-77.3462448,39.6796264
+304,North Carolina Central,MEAC,McLendon-McDougald Gymnasium,,2021,-78.8977563,35.9758995
+305,Pepperdine,WCC,Firestone Fieldhouse,,2021,-118.7096946,34.0385192
+306,Campbell,BSth,Pope Convocation Center,,2021,-78.7367859,35.4078789
+307,Portland St.,BSky,Viking Pavilion,,2021,-122.6863165,45.5108772
+308,North Dakota,Sum,Betty Engelstad Sioux Center,,2021,-97.0714417,47.9275954
+309,Cal Poly,BW,Mott Gymnasium,,2021,-120.6587313,35.2987292
+310,Bethune Cookman,MEAC,Moore Gym,,2021,-97.4983285,35.3214522
+310,Grambling St.,SWAC,Assembly Center,,2021,-92.7237273,32.5204266
+310,New Hampshire,AE,Lundholm Gymnasium,,2021,-70.9375613,43.1388127
+310,Oakland,Horz,Athletics Center O'Rena,,2021,-83.2129533,42.6740472
+310,Tarleton St.,WAC,Wisdom Gymnasium,,2021,-98.21998,32.2155689
+315,Northern Colorado,BSky,Bank of Colorado Arena,,2021,-104.7030436,40.4022171
+316,American,Pat,Bender Arena,,2021,-77.0900574,38.9378166
+317,Brown,Ivy,Pizzitola Sports Center,,2021,-71.3980885,41.8316983
+318,UC Riverside,BW,SRC Arena,,2021,-76.195174,43.006263
+319,Columbia,Ivy,Levien Gymnasium,,2021,-73.9618257,40.810242
+319,Howard,MEAC,Burr Arena,,2021,-77.022094,38.9263793
+319,Mississippi Valley St.,SWAC,Harrison Complex,,2021,-78.8693999,38.4248148
+322,Iona,MAAC,Hynes Athletics Center,,2021,-73.7856802,40.9260678
+323,Bryant,NEC,Chace Athletic Center,,2021,-71.5394146,41.9211855
+324,Drexel,CAA,Daskalakis Athletic Center,,2021,-75.1909893,39.9562282
+324,Yale,Ivy,Lee Amphitheater,,2021,-94.3116683,38.9264564
+326,Georgetown,BE,McDonough Arena,,2021,-77.0775268,38.9077027
+326,Manhattan,MAAC,Draddy Gymnasium,,2021,-73.9002497,40.89078
+328,Fairfield,MAAC,Alumni Hall,"Webster Bank Arena (10,000)",2021,-94.1462854,36.1132368
+329,Niagara,MAAC,Gallagher Center,,2021,-79.0380159,43.1374081
+330,Presbyterian,BSth,Templeton P.E. Center,,2021,-81.8689853,34.4650766
+331,Harvard,Ivy,Lavietes Pavilion,,2021,-71.1252674,42.368211
+332,Canisius,MAAC,Koessler Athletic Center,,2021,-78.8575314,42.9209439
+333,Dartmouth,Ivy,Leede Arena,,2021,-72.2828307,43.7029999
+333,Loyola MD,Pat,Reitz Arena,,2021,-76.6185933,39.3467998
+333,Sacred Heart,NEC,Pitt Center,,2021,-73.2448442,41.2198272
+333,UMass Lowell,AE,Costello Athletic Center,"Tsongas Center (6,111)",2021,-71.3240756,42.6555387
+333,Wagner,NEC,Spiro Sports Center,,2021,-74.095729,40.6149664
+338,Delaware St.,MEAC,Memorial Hall,,2021,-95.7059842,37.2272128
+338,Fairleigh Dickinson,NEC,Rothman Center,,2021,-74.029278,40.8798
+338,Incarnate Word,Slnd,McDermott Convocation Center,,2021,-98.4694139,29.4681469
+338,LIU,NEC,Steinberg Wellness Center,,2021,-73.9793049,40.6906465
+342,Longwood,BSth,Willett Hall,,2021,-78.3957004,37.2975417
+343,Boston University,Pat,Case Gym,,2021,-71.1203588,42.3539377
+344,Colgate,Pat,Cotterell Court,,2021,-75.5427254,42.8153293
+345,High Point,BSth,Millis Athletic and Convocation Center,,2021,-79.9960005,35.9711065
+346,Rider,MAAC,Alumni Gymnasium,,2021,-74.7353334,40.2791449
+347,Cal St. Northridge,BW,Matadome,,2021,-118.5259044,34.2419495
+347,UMKC,Sum,Swinney Recreation Center,"Municipal Auditorium (9,827)",2021,-94.5787668,39.0352714
+349,Jacksonville,ASun,Historic Swisher Gymnasium,,2021,-81.6050911,30.3502321
+350,Merrimack,NEC,Hammel Court,,2021,-71.119685,42.6677273
+350,St. Francis NY,NEC,Pope P.E. Center,,2021,-73.9921652,40.6932301
+352,Sacramento St.,BSky,The Nest,,2021,-97.4313354,38.1388854
+353,Abilene Christian,Slnd,Teague Special Events Center,,2021,-99.7083714,32.4712266
+353,Houston Baptist,Slnd,Sharp Gym,,2021,-97.6087531,38.8393199
+355,Seattle,WAC,Redhawk Center,,2021,-122.3139493,47.6067756
+356,Charleston Southern,BSth,Buccaneer Field House,,2021,-80.0678554,32.9782176
+357,USC Upstate,BSth,Hodge Center,,2021,-74.0088503,41.9305386
