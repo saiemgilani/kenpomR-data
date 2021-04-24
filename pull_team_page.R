@@ -3,7 +3,7 @@
 # if(!dir.exists(seasons[j])) {
 #   dir.create(seasons[j])
 # }
-gather_team_pages <- function(browser, year){
+gather_team_pages <- function(browser, year, fp){
   year_players <- data.frame()
   year_team_schedules <- data.frame()
   year_coaches <- data.frame()
@@ -23,7 +23,7 @@ gather_team_pages <- function(browser, year){
                   "team=", team_name,
                   "&y=", year)
 
-    page <- rvest::jump_to(browser, url)
+    page <- rvest::session_jump_to(browser, url)
 
     #---- Coach ----------------
     c <- (page %>%
@@ -53,14 +53,14 @@ gather_team_pages <- function(browser, year){
                             msg = "Incorrect team name as compared to the website, see kenpomR::teams_links for team name parameter specifications.")
     teams_links <- kenpomR::teams_links[kenpomR::teams_links$Year == year,]
     team_name = teams_links$team.link.ref[teams_links$Team == team]
-    # check for internet
-    check_internet()
+
+
     ### Pull Data
     url <- paste0("https://kenpom.com/team.php?",
                   "team=",team_name,
                   "&y=", year)
 
-    page <- rvest::jump_to(browser, url)
+    page <- rvest::session_jump_to(browser, url)
 
     if(year >= 2011){
       sched_header_cols<- c("Day.Date","Team.Rk","Opponent.Rk","Opponent","Result",
@@ -786,11 +786,22 @@ gather_team_pages <- function(browser, year){
     Sys.sleep(1)
   }
 
-  readr::write_csv(year_players, glue::glue("data-raw/kp_data/players_{year}.csv"))
-  readr::write_csv(year_coaches, glue::glue("data-raw/kp_data/coaches_{year}.csv"))
-  readr::write_csv(year_team_schedules, glue::glue("data-raw/kp_data/team_schedules_{year}.csv"))
+  readr::write_csv(year_players, glue::glue("{fp}/players_{year}.csv"))
+  readr::write_csv(year_coaches, glue::glue("{fp}/coaches_{year}.csv"))
+  readr::write_csv(year_team_schedules, glue::glue("{fp}/team_schedules_{year}.csv"))
+  saveRDS(year_players, glue::glue("{fp}/players_{year}.rds"))
+  saveRDS(year_coaches, glue::glue("{fp}/coaches_{year}.rds"))
+  saveRDS(year_team_schedules, glue::glue("{fp}/team_schedules_{year}.rds"))
+  arrow::write_parquet(year_players, glue::glue("{fp}/players_{year}.parquet"))
+  arrow::write_parquet(year_coaches, glue::glue("{fp}/coaches_{year}.parquet"))
+  arrow::write_parquet(year_team_schedules, glue::glue("{fp}/team_schedules_{year}.parquet"))
+
   if(year>=2010){
-    readr::write_csv(year_depth1, glue::glue("data-raw/kp_data/year_depth1_{year}.csv"))
-    readr::write_csv(year_depth2, glue::glue("data-raw/kp_data/year_depth2_{year}.csv"))
+    readr::write_csv(year_depth1, glue::glue("{fp}/year_depth1_{year}.csv"))
+    readr::write_csv(year_depth2, glue::glue("{fp}/year_depth2_{year}.csv"))
+    saveRDS(year_depth1, glue::glue("{fp}/year_depth1_{year}.rds"))
+    saveRDS(year_depth2, glue::glue("{fp}/year_depth2_{year}.rds"))
+    arrow::write_parquet(year_depth1, glue::glue("{fp}/year_depth1_{year}.parquet"))
+    arrow::write_parquet(year_depth2, glue::glue("{fp}/year_depth2_{year}.parquet"))
   }
 }
