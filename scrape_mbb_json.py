@@ -42,6 +42,7 @@ def main():
 
             except (TypeError) as e:
                 print("TypeError: yo", e)
+                time.sleep(10)
                 pbp = processor.mbb_pbp()
 
             except (KeyError) as e:
