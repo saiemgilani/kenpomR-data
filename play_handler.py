@@ -28,7 +28,8 @@ class PlayProcess(object):
     def download(self, url, num_retries=5):
         try:
             html = urllib.request.urlopen(url).read()
-        except (URLError, HTTPError, ContentTooShortError, http.client.HTTPException, http.client.IncompleteRead) as e:
+            time.sleep(1)
+        except (ConnectionResetError, URLError, HTTPError, ContentTooShortError, http.client.HTTPException, http.client.IncompleteRead) as e:
             print('Download error:', url)
             html = None
             if num_retries > 0:
