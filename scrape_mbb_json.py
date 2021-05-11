@@ -12,7 +12,7 @@ from pathlib import Path
 from play_handler import PlayProcess
 path_to_raw = "mbb"
 def main():
-    years_arr = range(2015,2020)
+    years_arr = range(2019,2020)
     schedule = pd.read_csv('mbb_schedule_2002_2021.csv', encoding='latin-1', low_memory=False)
     schedule = schedule[schedule['status.type.completed']==True]
     schedule = schedule.sort_values(by=['season'], ascending = False)
