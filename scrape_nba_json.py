@@ -4,6 +4,7 @@ import http
 import xgboost as xgb
 import time
 import urllib.request
+import numpy as np
 from urllib.error import URLError, HTTPError, ContentTooShortError
 from datetime import datetime
 from itertools import chain, starmap
@@ -12,7 +13,7 @@ from pathlib import Path
 from play_handler import PlayProcess
 path_to_raw = "nba"
 def main():
-    years_arr = range(2020,2022)
+    years_arr = range(2002,2021)
     schedule = pd.read_csv('nba_schedule_2002_2021.csv', encoding='latin-1', low_memory=False)
     schedule = schedule[schedule['status.type.completed']==True]
     schedule = schedule.sort_values(by=['season'], ascending = False)
@@ -38,6 +39,7 @@ def main():
                 continue
             try:
                 processor = PlayProcess( gameId = game, path_to_json = path_to_raw_json)
+                np.warnings.filterwarnings('error', category=np.VisibleDeprecationWarning) 
                 pbp = processor.nba_pbp()
 
             except (TypeError) as e:

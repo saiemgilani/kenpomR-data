@@ -208,10 +208,7 @@ class PlayProcess(object):
             pbp_txt['plays']['period.number'] = pbp_txt['plays']['period.number'].apply(lambda x: int(x))
             pbp_txt['plays']['qtr'] = pbp_txt['plays']['period.number'].apply(lambda x: int(x))
 
-            #----- Figuring out Timeouts ---------
-            pbp_txt['timeouts'] = {}
-            pbp_txt['timeouts'][homeTeamId] = {"1": [], "2": []}
-            pbp_txt['timeouts'][awayTeamId] = {"1": [], "2": []}
+            
 
             pbp_txt['plays']["homeTeamSpread"] = 2.5
             if len(pbp_txt['pickcenter']) > 1:
@@ -524,9 +521,22 @@ class PlayProcess(object):
             pbp_txt['plays']["homeFavorite"] = homeFavorite
 
             #----- Time ---------------
+
+            pbp_txt['plays']['clock.displayValue'] = np.select(
+                [
+                    pbp_txt['plays']['clock.displayValue'].str.contains(":") == False
+                ],
+                [
+                    "0:" + pbp_txt['plays']['clock.displayValue'].apply(lambda x: str(x))
+                ], default = pbp_txt['plays']['clock.displayValue']
+            )
             pbp_txt['plays']['time'] = pbp_txt['plays']['clock.displayValue']
             pbp_txt['plays']['clock.mm'] = pbp_txt['plays']['clock.displayValue'].str.split(pat=':')
-            pbp_txt['plays'][['clock.minutes','clock.seconds']] = pbp_txt['plays']['clock.mm'].to_list()
+            pbp_txt['plays'][['clock.minutes','clock.seconds']] = pbp_txt['plays']['clock.mm'].to_list()            
+            pbp_txt['plays']['clock.minutes'] = pbp_txt['plays']['clock.minutes'].apply(lambda x: int(x))
+
+            pbp_txt['plays']['clock.seconds'] = pbp_txt['plays']['clock.seconds'].apply(lambda x: float(x))
+            # pbp_txt['plays']['clock.mm'] = pbp_txt['plays']['clock.displayValue'].apply(lambda x: datetime.strptime(str(x),'%M:%S'))
             pbp_txt['plays']['half'] = np.where(pbp_txt['plays']['qtr'] <= 2, "1","2")
             pbp_txt['plays']['game_half'] = np.where(pbp_txt['plays']['qtr'] <= 2, "1","2")
             pbp_txt['plays']['lag_qtr'] = pbp_txt['plays']['qtr'].shift(1)
