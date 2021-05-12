@@ -23,9 +23,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
-          git pull
           git add .
           git commit -m "MBB Year Updated" || echo "No changes to commit"
+          git pull --rebase
+          git push
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
