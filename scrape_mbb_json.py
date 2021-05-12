@@ -26,7 +26,7 @@ def main():
         path_to_raw_json = "{}/{}/".format(path_to_raw, year)
         Path(path_to_raw_json).mkdir(parents=True, exist_ok=True)
         # json_files = [pos_json.replace('.json', '') for pos_json in os.listdir(path_to_raw_json) if pos_json.endswith('.json')]
-        i = 5450
+        i = 5888
         for game in games[i:]:
             if i == len(games):
                 print("done with year")
