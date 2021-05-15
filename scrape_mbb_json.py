@@ -12,7 +12,7 @@ from pathlib import Path
 from play_handler import PlayProcess
 path_to_raw = "mbb"
 def main():
-    years_arr = range(2002,2004)
+    years_arr = range(2002,2003)
     schedule = pd.read_csv('mbb_schedule_2002_2021.csv', encoding='latin-1', low_memory=False)
     schedule = schedule[schedule['status.type.completed']==True]
     schedule = schedule.sort_values(by=['season'], ascending = False)
@@ -26,7 +26,7 @@ def main():
         path_to_raw_json = "{}/{}/".format(path_to_raw, year)
         Path(path_to_raw_json).mkdir(parents=True, exist_ok=True)
         # json_files = [pos_json.replace('.json', '') for pos_json in os.listdir(path_to_raw_json) if pos_json.endswith('.json')]
-        i = 0
+        i = 2600
         for game in games[i:]:
             if i == len(games):
                 print("done with year")
