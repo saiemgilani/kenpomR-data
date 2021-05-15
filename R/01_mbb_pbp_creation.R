@@ -4,7 +4,7 @@ library(dplyr)
 library(stringr)
 library(arrow)
 
-years_vec <- 2021:2021
+years_vec <- 2011:2021
 # --- compile into play_by_play_{year}.parquet ---------
 future::plan("multisession")
 progressr::with_progress({
