@@ -4,12 +4,12 @@ library(dplyr)
 library(stringr)
 library(arrow)
 
-years_vec <- 2011:2021
+years_vec <- 2002:2021
 # --- compile into play_by_play_{year}.parquet ---------
 future::plan("multisession")
 progressr::with_progress({
-  p <- progressr::progressor(along = years_vec)
-  pbp_games <- purrr::map_dfr(years_vec, function(y){
+  p <- progressr::progressor(along = sort(years_vec, decreasing = TRUE))
+  pbp_games <- purrr::map_dfr(sort(years_vec, decreasing = TRUE), function(y){
     
     pbp_g <- data.frame()
     pbp_list <- list.files(path = glue::glue('mbb/{y}/'))
